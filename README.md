@@ -1,4 +1,4 @@
-# Fake news detection
+# Fake news detection using NLP: comparison of different deep learning methods
 - preprocessing data
 - parameter search
 - pipelining
